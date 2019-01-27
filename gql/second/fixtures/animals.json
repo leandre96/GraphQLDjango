@@ -1,0 +1,1 @@
+[{"model": "second.animal", "pk": 1, "fields": {"name": "Wolfie","genus": "Dog","is_domesticated":true}}, {"model": "second.animal", "pk": 2, "fields": {"name": "Nana","genus": "Cat","is_domesticated":false}}]
